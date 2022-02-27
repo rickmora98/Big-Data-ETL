@@ -1,4 +1,4 @@
-# big_data-challenge 
+# big-data-challenge 
 
 This repository contains my solutions to Data Analytics Bootcamp Homework Assignment for week #22.<br>
 
