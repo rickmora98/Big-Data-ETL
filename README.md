@@ -1,7 +1,8 @@
 # big-data-ETL 
 
 This project utilizes Amazon RDS, Google Colaboratory, and PySpark to illustrate the ETL process for very large data sets.
-For each jupyter notebook in this repository, a large file containing customer reviews for products sold on Amazon is loaded into a PySpark dataframe.
+For each jupyter notebook in this repository, a large file containing customer reviews for products sold on Amazon is retrieved from the Amazon
+Web Service and loaded into a PySpark dataframe.
 The dataframe is then broken into subsequent dataframes that will fit the tables defined in the schema file.
 The subsequent dataframes are cleaned and then loaded into an Amazon RDS database.<br>
 
