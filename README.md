@@ -60,8 +60,8 @@ CREATE TABLE vine_table (
 );
 ```
 
-<img src=/Images/Extract.jpg>
+<img src=/Images/Extract.jpg width="100%">
 
-<img src=/Images/Transform.jpg>
+<img src=/Images/Transform.jpg width="90%">
 
-<img src=/Images/Load.jpg>
+<img src=/Images/Load.jpg width="45%">
