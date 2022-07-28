@@ -21,10 +21,6 @@ To examine and/or run the code files, their locations are indicated in the tree 
 	
 (Please do not delete, move, rename, or alter!) <br>
 
-#### Submitted by: <br>
- Ricardo G. Mora, Jr.  02/26/2022
-<br><br><br>
-
 #### Sample Code:
 PostgreSQL schema file to set up database tables:
 ```
