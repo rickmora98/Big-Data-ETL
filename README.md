@@ -10,7 +10,7 @@ To examine and/or run the code files, their locations are indicated in the tree 
 #### Files/Folders:
 
 + **"level-1"** <br>
-	- *"schema.sql"* (sets up the database tables, run this first) <br>
+	- *"schema.sql"* (sets up the database tables, RUN THIS FIRST) <br>
 	- *"amazon_reviews_1A.ipynb"* (performs ETL on Amazon reviews for Health & Personal Care products) <br>
 	- *"amazon_reviews_1B.ipynb"* (performs ETL on Amazon reviews for Pet products) <br>
 	
