@@ -1,4 +1,4 @@
-# A SQL Database for Amazon Product Reviews (Big Data ETL Demonstration)
+<h1> A SQL Database for Amazon Product Reviews <br> (Big Data ETL Demonstration) </h1>
 
 #### Overview:
 This project utilizes Amazon RDS, Google Colaboratory, and PySpark to illustrate the ETL process for very large data sets.
